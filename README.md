@@ -1,2 +1,2 @@
-# JAVA1
+# JAVA1_HW
 HW for JAVA1
